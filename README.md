@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdulrahman Al-Tairi
 
-<!--
-**abdulrahman-altairi/Abdulrahman-AlTairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with an Excellent IT Diploma.  
+I focus on learning clean coding, building real projects, and improving my programming skills step by step.
 
-Here are some ideas to get you started:
+### 🔧 Tech Skills
+- C++ (OOP & problem-solving)
+- Python
+- PHP
+- Basic web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Work
+- Developing a full OOP Bank System project  
+- Expanding my knowledge in modern software development  
+
+### 🎯 Goals
+- Grow into a full-stack developer  
+- Build practical tools and useful applications  
+
+### 🌐 Connect
+- LinkedIn: (https://www.linkedin.com/in/abdulrahman-altairi/)
